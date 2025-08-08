@@ -1,4 +1,4 @@
-# 🖼️Zeyoo Image Annotation Tool v3.2
+# 🖼️Zeyoo Image Annotation Tool
 
 A powerful and versatile image annotation software designed for both **general computer vision** and **remote sensing** applications.  
 Supports **multiple annotation types**, **remote sensing geospatial data**, and **format conversions** for major AI and GIS workflows.
