@@ -144,7 +144,6 @@ Supports **multiple annotation types**, **remote sensing geospatial data**, and 
 ---
 
 ## ⚠️ Important Notes
-- OBB requires strict **3-step** creation  
 - Polygon needs at least **3 points**  
 - Always ensure source image has geospatial metadata for shapefile export  
 
