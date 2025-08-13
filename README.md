@@ -6,6 +6,20 @@ Supports **multiple annotation types**, **remote sensing geospatial data**, and 
 https://ai.zeyuxu.com/#annotation
 
 ---
+## 🌟 Highlight Tips
+1. Double-click to apply the target's color and other properties to the toolbar.  
+2. Annotations are saved automatically when switching images. You can also press **Ctrl+S** to save manually.  
+3. Supported input/output types (input formats can be auto-detected):  
+
+| Type | Supported Input Formats | Default Output Format | Supported Convertible Output Formats |
+|------|------------------------|-----------------------|---------------------------------------|
+| Point | YOLO | YOLO | YOLO / Esri Shapefile / Image mask |
+| Horizontal Bounding Box | YOLO / VOC / COCO | YOLO | YOLO / VOC / COCO / Esri Shapefile / Image mask |
+| Oriented Bounding Box | DOTA | DOTA | DOTA / Esri Shapefile / Image mask |
+| Polygon | Labelme JSON / COCO / YOLO | Labelme JSON | COCO / YOLO / Esri Shapefile / Image mask |
+
+> **Note:** Input formats can be auto-detected.
+
 
 ## 🚀 Core Features
 
