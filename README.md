@@ -3,7 +3,10 @@
 A powerful and versatile image annotation software designed for both **general computer vision** and **remote sensing** applications.  
 Supports **multiple annotation types**, **remote sensing geospatial data**, and **format conversions** for major AI and GIS workflows.
 
+Download: 
 https://ai.zeyuxu.com/#annotation
+https://github.com/zeyu-rs/Zeyoo-Annotation/releases
+
 
 ---
 ## 🌟 Highlight Tips
