@@ -10,7 +10,7 @@ https://ai.zeyuxu.com/#annotation
 ## 🚀 Core Features
 
 ### 📐 Multiple Annotation Modes
-- Supports **HBB** (Horizontal Bounding Box), **OBB** (Oriented Bounding Box), **Keypoints**, and **Polygons**.
+- Supports **HBB** (Horizontal Bounding Box), **OBB** (Oriented Bounding Box), **center points**, and **Polygons**.
 - Export formats: **COCO**, **VOC**, **YOLO**, **Mask**, **Esri Shapefile**.
 
 ### 🌍 Remote Sensing Data Support
@@ -152,7 +152,7 @@ https://ai.zeyuxu.com/#annotation
 ---
 
 ## 📋 Annotation Types
-- **Point** – Keypoint detection  
+- **Point** – center point detection  
 - **HBB** – Horizontal bounding box  
 - **OBB** – Rotated bounding box  
 - **Polygon** – Segmentation tasks  
