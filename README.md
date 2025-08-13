@@ -5,7 +5,6 @@ Supports **multiple annotation types**, **remote sensing geospatial data**, and 
 
 <img width="1916" height="1000" alt="002" src="https://github.com/user-attachments/assets/3ea4a5f8-50cb-4af3-93a7-07d7dbfcc368" />
 
-<img width="1916" height="991" alt="005" src="https://github.com/user-attachments/assets/afbf58d4-aec2-458c-835e-e201725233d0" />
 
 Download: 
 
@@ -28,6 +27,9 @@ https://github.com/zeyu-rs/Zeyoo-Annotation/releases
 | Polygon | Labelme JSON / COCO / YOLO | Labelme JSON | COCO / YOLO / Esri Shapefile / Image mask |
 
 > **Note:** Input formats can be auto-detected.
+
+
+<img width="1916" height="991" alt="005" src="https://github.com/user-attachments/assets/afbf58d4-aec2-458c-835e-e201725233d0" />
 
 
 ## 🚀 Core Features
