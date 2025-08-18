@@ -8,7 +8,7 @@ Supports **multiple annotation types**, **remote sensing geospatial data**, and 
 
 Download: 
 
-https://ai.zeyuxu.com/#annotation
+https://ai.zeyuxu.com/zeyoo
 
 https://github.com/zeyu-rs/Zeyoo-Annotation/releases
 
