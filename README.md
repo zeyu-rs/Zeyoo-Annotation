@@ -9,7 +9,7 @@ Important Update:
 (1) Fixed delay when switching images
 (2) Improved experience when dragging HBB/OBB targets
 (3) Added Chinese language support
-(4) Optimized new category creation
+(4) Optimized new class creation
 
 <img width="1916" height="1000" alt="002" src="https://github.com/user-attachments/assets/3ea4a5f8-50cb-4af3-93a7-07d7dbfcc368" />
 
