@@ -3,8 +3,6 @@
 A powerful and versatile image annotation software designed for both **general computer vision** and **remote sensing** applications.  
 Supports **multiple annotation types**, **remote sensing geospatial data**, and **format conversions** for major AI and GIS workflows.
 
-ChatGPT said:
-
 Important Update:
 (1) Fixed delay when switching images
 (2) Improved experience when dragging HBB/OBB targets
