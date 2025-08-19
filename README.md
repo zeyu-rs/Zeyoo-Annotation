@@ -3,17 +3,13 @@
 A powerful and versatile image annotation software designed for both **general computer vision** and **remote sensing** applications.  
 Supports **multiple annotation types**, **remote sensing geospatial data**, and **format conversions** for major AI and GIS workflows.
 
-## 📝 Changelog *(Important Update)*
+> *Changelog — 2025-08-19*  
+>  
+> - *Fixed delay when switching images*  
+> - *Improved experience when dragging HBB/OBB targets*  
+> - *Added Chinese language support*  
+> - *Optimized new class creation*
 
-> *Date: 2025-08-19*  
-> *Status: Rolling Update*
-
----
-
-- *Fixed delay when switching images*  
-- *Improved experience when dragging **HBB/OBB** targets*  
-- *Added **Chinese language** support*  
-- *Optimized **new category creation***
 
 
 <img width="1916" height="1000" alt="002" src="https://github.com/user-attachments/assets/3ea4a5f8-50cb-4af3-93a7-07d7dbfcc368" />
