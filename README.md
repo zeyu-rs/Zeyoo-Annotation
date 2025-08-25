@@ -3,6 +3,18 @@
 A powerful and versatile image annotation software designed for both **general computer vision** and **remote sensing** applications.  
 Supports **multiple annotation types**, **remote sensing geospatial data**, and **format conversions** for major AI and GIS workflows.
 
+> *Changelog — 2025-08-25*  
+>  
+> - *Fixed misalignment issue when auto-saving during rapid image switching*  
+> - *Added new category reminder in draw mode*  
+
+
+> *Changelog — 2025-08-22*  
+>  
+> - *Added import and export functionality for color settings*  
+> - *Fixed conflicts between default format and existing format*  
+
+
 > *Changelog — 2025-08-22*  
 >  
 > - *Added import and export functionality for color settings*  
