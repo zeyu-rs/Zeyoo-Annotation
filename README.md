@@ -3,6 +3,12 @@
 A powerful and versatile image annotation software designed for both **general computer vision** and **remote sensing** applications.  
 Supports **multiple annotation types**, **remote sensing geospatial data**, and **format conversions** for major AI and GIS workflows.
 
+> *Changelog — 2025-09-03*  
+>  
+> - *Modified mouse wheel zoom behavior: Mouse wheel directly zooms, Ctrl + mouse wheel changes to fine zoom*  
+
+
+
 > *Changelog — 2025-08-25*  
 >  
 > - *Fixed misalignment issue when auto-saving during rapid image switching*  
