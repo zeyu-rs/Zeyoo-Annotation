@@ -138,11 +138,11 @@ https://github.com/zeyu-rs/Zeyoo-Annotation/releases
 
 ---
 ### Button
-• 🔲 Box Selection (M): Draw a box to select multiple targets, right-click to cancel selection. When multiple items are selected, you can drag and delete them.
-• 🔍 Zoom to Region (Z): Draw a box on canvas to zoom to that region
-• 🎯 Focus (V): Show only selected annotation
-• 👁️ Toggle Annotations (H): Show/Hide all annotations
-• 🖼️ Fit to View (I): Fit image to window size
+-  🔲 Box Selection (M): Draw a box to select multiple targets, right-click to cancel selection. When multiple items are selected, you can drag and delete them.
+- 🔍 Zoom to Region (Z): Draw a box on canvas to zoom to that region
+-  🎯 Focus (V): Show only selected annotation
+-  👁️ Toggle Annotations (H): Show/Hide all annotations
+-  🖼️ Fit to View (I): Fit image to window size
 ---
 ### 🖼️ Image Navigation
 - **← / →**: Previous / Next image  
