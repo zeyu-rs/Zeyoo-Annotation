@@ -3,11 +3,14 @@
 A powerful and versatile image annotation software designed for both **general computer vision** and **remote sensing** applications.  
 Supports **multiple annotation types**, **remote sensing geospatial data**, and **format conversions** for major AI and GIS workflows.
 
-> *Changelog — 2025-11-23*  
+> *Changelog — 2025-11-23 (v3.8.1)*  
 >  
 > - *Optimize COCO-format data loading*
 > - *Add box zooming functionality*
 > - *Improve Ctrl+Z undo behavior*
+> - *Optimize button bar visuals*
+> - *Add multi-select functionality*
+> - *Optimize point selection*
 
 > *Changelog — 2025-11-18*  
 >  
