@@ -18,7 +18,8 @@ Supports **multiple annotation types**, **remote sensing geospatial data**, and 
 > 2. Scroll to **Security**  
 > 3. Find the message like: “`<AppName>` was blocked from use because it is not from an identified developer.”  
 > 4. Click **Open Anyway**  
-> 5. Confirm again in the popup by clicking **Open**  
+> 5. Confirm again in the popup by clicking **Open**
+> 6. We guarantee the security of the software, but at the moment we can’t obtain Apple certification because it requires an expensive fee.
 
 
 > *Changelog — 2025-11-23 (v3.8.1)*  
