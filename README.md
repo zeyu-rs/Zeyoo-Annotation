@@ -10,6 +10,16 @@ Supports **multiple annotation types**, **remote sensing geospatial data**, and 
 > - *Enable right-click quick edit for drawing width, point radius, hollow circle, etc.*  
 > - *Optimize format conversion strategy (scan only files with labels and related data)*  
 > - *Optimize color editing strategy (save category–color mappings directly)*
+> - > *macOS — How to open (Privacy & Security)*  
+>  
+> If macOS blocks the app because it’s from an unidentified developer:  
+>  
+> 1. Open **System Settings** → **Privacy & Security**  
+> 2. Scroll to **Security**  
+> 3. Find the message like: “`<AppName>` was blocked from use because it is not from an identified developer.”  
+> 4. Click **Open Anyway**  
+> 5. Confirm again in the popup by clicking **Open**  
+
 
 > *Changelog — 2025-11-23 (v3.8.1)*  
 >  
