@@ -10,7 +10,6 @@ Supports **multiple annotation types**, **remote sensing geospatial data**, and 
 > - *Enable right-click quick edit for drawing width, point radius, hollow circle, etc.*  
 > - *Optimize format conversion strategy (scan only files with labels and related data)*  
 > - *Optimize color editing strategy (save category–color mappings directly)*
-> - > *macOS — How to open (Privacy & Security)*  
 >  
 > If macOS blocks the app because it’s from an unidentified developer:  
 >  
