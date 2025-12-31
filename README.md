@@ -10,6 +10,7 @@ Supports **multiple annotation types**, **remote sensing geospatial data**, and 
 > - *Enable right-click quick edit for drawing width, point radius, hollow circle, etc.*  
 > - *Optimize format conversion strategy (scan only files with labels and related data)*  
 > - *Optimize color editing strategy (save category–color mappings directly)*
+> - *Confidence filtering: Applicable to YOLO-format points or bounding boxes. For the output results, if a confidence score is appended as the last column, you can choose to filter what’s displayed based on the confidence score.*
 >  
 > If macOS blocks the app because it’s from an unidentified developer:  
 >  
