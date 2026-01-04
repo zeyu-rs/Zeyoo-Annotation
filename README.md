@@ -2,6 +2,19 @@
 
 A powerful and versatile image annotation software designed for both **general computer vision** and **remote sensing** applications.  
 Supports **multiple annotation types**, **remote sensing geospatial data**, and **format conversions** for major AI and GIS workflows.
+## 🌟 Highlight Tips
+1. Double-click to apply the target's color and other properties to the toolbar.  
+2. Annotations are saved automatically when switching images. You can also press **Ctrl+S** to save manually.  
+3. Supported input/output types (input formats can be auto-detected):  
+
+| Type | Supported Input Formats | Default Output Format | Supported Convertible Output Formats |
+|------|------------------------|-----------------------|---------------------------------------|
+| Point | YOLO | YOLO | YOLO / Esri Shapefile / Image mask |
+| Horizontal Bounding Box | YOLO / VOC / COCO | YOLO | YOLO / VOC / COCO / Esri Shapefile / Image mask |
+| Oriented Bounding Box | DOTA / YOLO | DOTA | DOTA / YOLO /  Esri Shapefile / Image mask |
+| Polygon | Labelme JSON / COCO / YOLO | Labelme JSON | COCO / YOLO / Esri Shapefile / Image mask |
+
+> **Note:** Input formats can be auto-detected.
 
 > *Changelog — 2026-01-05 (v3.9.1)*  
 >  
@@ -101,19 +114,7 @@ https://github.com/zeyu-rs/Zeyoo-Annotation/releases
 
 
 ---
-## 🌟 Highlight Tips
-1. Double-click to apply the target's color and other properties to the toolbar.  
-2. Annotations are saved automatically when switching images. You can also press **Ctrl+S** to save manually.  
-3. Supported input/output types (input formats can be auto-detected):  
 
-| Type | Supported Input Formats | Default Output Format | Supported Convertible Output Formats |
-|------|------------------------|-----------------------|---------------------------------------|
-| Point | YOLO | YOLO | YOLO / Esri Shapefile / Image mask |
-| Horizontal Bounding Box | YOLO / VOC / COCO | YOLO | YOLO / VOC / COCO / Esri Shapefile / Image mask |
-| Oriented Bounding Box | DOTA | DOTA | DOTA / Esri Shapefile / Image mask |
-| Polygon | Labelme JSON / COCO / YOLO | Labelme JSON | COCO / YOLO / Esri Shapefile / Image mask |
-
-> **Note:** Input formats can be auto-detected.
 
 
 <img width="1916" height="991" alt="005" src="https://github.com/user-attachments/assets/afbf58d4-aec2-458c-835e-e201725233d0" />
