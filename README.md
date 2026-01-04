@@ -3,6 +3,14 @@
 A powerful and versatile image annotation software designed for both **general computer vision** and **remote sensing** applications.  
 Supports **multiple annotation types**, **remote sensing geospatial data**, and **format conversions** for major AI and GIS workflows.
 
+> *Changelog — 2026-01-04 (v3.9.1)*  
+>  
+> - *Fix GDAL import issues on macOS and Linux*  
+> - *Add YOLO-format OBB support*  
+> - *Optimize sub-image extraction and format conversion*  
+> - *Add DOTA-format export support*
+
+
 > *Changelog — 2025-12-29 (v3.9.0)*  
 >  
 > - *Add macOS version support*  
