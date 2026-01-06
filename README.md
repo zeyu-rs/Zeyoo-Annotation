@@ -16,6 +16,13 @@ Supports **multiple annotation types**, **remote sensing geospatial data**, and 
 
 > **Note:** Input formats can be auto-detected.
 
+> *Changelog — 2026-01-06 (v3.9.2)*  
+>  
+> - *Add YOLO OBB confidence display feature*   
+> - *Optimize scan label class functionality*  
+> - *Optimize other details*  
+
+
 > *Changelog — 2026-01-05 (v3.9.1)*  
 >  
 > - *Fix GDAL import issues on macOS and Linux*  
