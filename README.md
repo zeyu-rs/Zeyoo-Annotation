@@ -22,7 +22,7 @@ Supports **multiple annotation types**, **remote sensing geospatial data**, and 
 > - *Add polyline support*  
 > - *Support saving multiple custom path configurations*  
 > - *Optimize the right-click menu*  
-> - *Add the image information retrieval feature*  
+> - *Add the get image information feature*  
 > - *Optimize class color settings*  
 
 
