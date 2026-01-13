@@ -17,6 +17,15 @@ Supports **multiple annotation types**, **remote sensing geospatial data**, and 
 
 > **Note:** Input formats can be auto-detected.
 
+> *Changelog — 2026-01-13 (v3.9.3)*  
+>  
+> - *Add polyline support*  
+> - *Support saving multiple custom path configurations*  
+> - *Optimize the right-click menu*  
+> - *Add the image information retrieval feature*  
+> - *Optimize class color settings*  
+
+
 > *Changelog — 2026-01-06 (v3.9.2)*  
 >  
 > - *Add YOLO OBB confidence display feature*   
