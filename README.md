@@ -13,6 +13,7 @@ Supports **multiple annotation types**, **remote sensing geospatial data**, and 
 | Horizontal Bounding Box | YOLO / VOC / COCO | YOLO | YOLO / VOC / COCO / Esri Shapefile / Image mask |
 | Oriented Bounding Box | DOTA / YOLO | DOTA | DOTA / YOLO /  Esri Shapefile / Image mask |
 | Polygon | Labelme JSON / COCO / YOLO | Labelme JSON | COCO / YOLO / Esri Shapefile / Image mask |
+| Polyline | Labelme JSON  | Labelme JSON |  Esri Shapefile / Image mask |
 
 > **Note:** Input formats can be auto-detected.
 
