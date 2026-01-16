@@ -17,6 +17,15 @@ Supports **multiple annotation types**, **remote sensing geospatial data**, and 
 
 > **Note:** Input formats can be auto-detected.
 
+> *Changelog — 2026-01-16 (v3.9.5)*  
+>  
+> - *Support opening recent projects*  
+> - *Added annotation statistics and quality check functions*  
+> - *Added image annotation matching function*  
+> - *Added more image enhancement methods*  
+> - *Added a light green theme*
+
+
 > *Changelog — 2026-01-13 (v3.9.3)*  
 >  
 > - *Add polyline support*  
