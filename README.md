@@ -134,11 +134,11 @@ Supports **multiple annotation types**, **remote sensing geospatial data**, and 
 > - *Optimized new class creation*
 
 
-
-<img width="1916" height="1000" alt="002" src="https://github.com/user-attachments/assets/3ea4a5f8-50cb-4af3-93a7-07d7dbfcc368" />
+<img width="1916" height="1005" alt="003" src="https://github.com/user-attachments/assets/f06aa7ee-bbf2-4830-8aa0-9242a6b0cb02" />
 
 
 Download: 
+
 
 https://ai.zeyuxu.com/zeyoo
 
@@ -147,9 +147,9 @@ https://github.com/zeyu-rs/Zeyoo-Annotation/releases
 
 ---
 
+<img width="1486" height="779" alt="005" src="https://github.com/user-attachments/assets/6f22ced5-2b61-45df-8373-27c98f08c19a" />
 
 
-<img width="1916" height="991" alt="005" src="https://github.com/user-attachments/assets/afbf58d4-aec2-458c-835e-e201725233d0" />
 
 
 ## 🚀 Core Features
