@@ -17,6 +17,12 @@ Supports **multiple annotation types**, **remote sensing geospatial data**, and 
 
 > **Note:** Input formats can be auto-detected.
 
+> *Changelog — 2026-01-18 (v3.9.5)*  
+>  
+> - *Support changing default save format.*
+> - *Fixed an issue in exporting shapefiles.*
+> - *Optimized the display of the class dropdown list.*
+
 > *Changelog — 2026-01-16 (v3.9.5)*  
 >  
 > - *Support opening recent projects*  
