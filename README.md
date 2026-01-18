@@ -2,6 +2,7 @@
 
 A powerful and versatile image annotation software designed for both **general computer vision** and **remote sensing** applications.  
 Supports **multiple annotation types**, **remote sensing geospatial data**, and **format conversions** for major AI and GIS workflows.
+Examples：https://github.com/zeyu-rs/Zeyoo-Annotation/blob/main/examples.md
 ## 🌟 Highlight Tips
 1. Double-click to apply the target's color and other properties to the toolbar.  
 2. Annotations are saved automatically when switching images. You can also press **Ctrl+S** to save manually.  
