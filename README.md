@@ -4,9 +4,10 @@ A powerful and versatile image annotation software designed for both **general c
 Supports **multiple annotation types**, **remote sensing geospatial data**, and **format conversions** for major AI and GIS workflows.
 
 [Examples](https://github.com/zeyu-rs/Zeyoo-Annotation/blob/main/examples.md)
-[Download1](https://ai4wild.com/zeyoo))
 
-[Download2](https://github.com/zeyu-rs/Zeyoo-Annotation/releases))
+[Download1](https://ai4wild.com/zeyoo)
+
+[Download2](https://github.com/zeyu-rs/Zeyoo-Annotation/releases)
 
 
 ## 🌟 Highlight Tips
