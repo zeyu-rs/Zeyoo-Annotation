@@ -25,6 +25,12 @@ Supports **multiple annotation types**, **remote sensing geospatial data**, and 
 
 > **Note:** Input formats can be auto-detected.
 
+
+
+> *Changelog — 2026-01-30 (v3.9.5)*  
+>  
+> - *Fixed opening recent projects issue on Windows/Linux systems. *
+
 > *Changelog — 2026-01-18 (v3.9.5)*  
 >  
 > - *Support changing default save format.*
