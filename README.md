@@ -25,6 +25,10 @@ Supports **multiple annotation types**, **remote sensing geospatial data**, and 
 
 > **Note:** Input formats can be auto-detected.
 
+> *Changelog — 2026-02-01 (v3.9.6)*  
+>  
+> - *Changed double-click to single-click for showing target category color.*
+> - *Added category info display to show category and confidence on the image.*
 
 
 > *Changelog — 2026-01-30 (v3.9.5)*  
