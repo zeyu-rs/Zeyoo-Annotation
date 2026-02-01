@@ -52,65 +52,68 @@ Supports **multiple annotation types**, **remote sensing geospatial data**, and 
 
 > *Changelog — 2026-01-13 (v3.9.3)*  
 >  
-> - *Add polyline support*  
-> - *Support saving multiple custom path configurations*  
-> - *Optimize the right-click menu*  
-> - *Add the get image information feature*  
-> - *Optimize class color settings*  
+> - *Added polyline support*  
+> - *Supported saving multiple custom path configurations*  
+> - *Optimized the right-click menu*  
+> - *Added the get image information feature*  
+> - *Optimized class color settings*  
 
 
 > *Changelog — 2026-01-06 (v3.9.2)*  
 >  
-> - *Add YOLO OBB confidence display feature*   
-> - *Optimize scan label class functionality*  
-> - *Optimize other details*  
+> - *Added YOLO OBB confidence display feature*  
+> - *Optimized scan label class functionality*  
+> - *Optimized other details*  
 
 
 > *Changelog — 2026-01-05 (v3.9.1)*  
 >  
-> - *Fix GDAL import issues on macOS and Linux*  
-> - *Add YOLO-format OBB support*  
-> - *Optimize sub-image extraction and format conversion*  
-> - *Add DOTA-format export support*
+> - *Fixed GDAL import issues on macOS and Linux*  
+> - *Added YOLO-format OBB support*  
+> - *Optimized sub-image extraction and format conversion*  
+> - *Added DOTA-format export support*  
 
 
 > *Changelog — 2025-12-29 (v3.9.0)*  
 >  
-> - *Add macOS version support*  
-> - *Improve and optimize UI/UX*  
-> - *Enable right-click quick edit for drawing width, point radius, hollow circle, etc.*  
-> - *Optimize format conversion strategy (scan only files with labels and related data)*  
-> - *Optimize color editing strategy (save category–color mappings directly)*
-> - *Confidence filtering: Applicable to YOLO-format points or bounding boxes. For the output results, if a confidence score is appended as the last column, you can choose to filter what’s displayed based on the confidence score.*
+> - *Added macOS version support*  
+> - *Improved and optimized UI/UX*  
+> - *Enabled right-click quick edit for drawing width, point radius, hollow circle, etc.*  
+> - *Optimized format conversion strategy (scanned only files with labels and related data)*  
+> - *Optimized color editing strategy (saved category–color mappings directly)*  
+> - *Confidence filtering: Applied to YOLO-format points or bounding boxes. For the output results, if a confidence score was appended as the last column, you could choose to filter what was displayed based on the confidence score.*  
 >  
-> If macOS blocks the app because it’s from an unidentified developer:  
+> If macOS blocked the app because it was from an unidentified developer:  
 >  
 > 1. Open **System Settings** → **Privacy & Security**  
 > 2. Scroll to **Security**  
-> 3. Find the message like: “`<AppName>` was blocked from use because it is not from an identified developer.”  
+> 3. Find the message like: “`<AppName>` was blocked from use because it was not from an identified developer.”  
 > 4. Click **Open Anyway**  
-> 5. Confirm again in the popup by clicking **Open**
-> 6. We guarantee the security of the software, but at the moment we can’t obtain Apple certification because it requires an expensive fee.
+> 5. Confirm again in the popup by clicking **Open**  
+> 6. We guaranteed the security of the software, but at the moment we couldn’t obtain Apple certification because it required an expensive fee.  
 
 
 > *Changelog — 2025-11-23 (v3.8.1)*  
 >  
-> - *Optimize COCO-format data loading*
-> - *Add box zooming functionality*
-> - *Improve Ctrl+Z undo behavior*
-> - *Optimize button bar visuals*
-> - *Add multi-select functionality*
-> - *Optimize point selection*
+> - *Optimized COCO-format data loading*  
+> - *Added box zooming functionality*  
+> - *Improved Ctrl+Z undo behavior*  
+> - *Optimized button bar visuals*  
+> - *Added multi-select functionality*  
+> - *Optimized point selection*  
+
 
 > *Changelog — 2025-11-18*  
 >  
-> - *Fix GDAL issues*
-> - *Restore small file sizes.*
+> - *Fixed GDAL issues*  
+> - *Restored small file sizes*  
+
 
 > *Changelog — 2025-11-17*  
 >  
-> - *Automatically record language and theme settings*
-> - *Other minor optimizations*
+> - *Automatically recorded language and theme settings*  
+> - *Other minor optimizations*  
+
 
 > *Changelog — 2025-09-03*  
 >  
