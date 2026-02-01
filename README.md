@@ -27,8 +27,8 @@ Supports **multiple annotation types**, **remote sensing geospatial data**, and 
 
 > *Changelog — 2026-02-01 (v3.9.6)*  
 >  
-> - *Changed double-click to single-click for showing target category color.*
-> - *Added category info display to show category and confidence on the image.*
+> - *Changed double-click to single-click for showing object class and color.*
+> - *Added class info display to show category and confidence on the image.*
 
 
 > *Changelog — 2026-01-30 (v3.9.5)*  
