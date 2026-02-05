@@ -24,8 +24,9 @@ Supports **multiple annotation types**, **remote sensing geospatial data**, and 
 | Polyline | Labelme JSON  | Labelme JSON |  Esri Shapefile / Image mask |
 
 > **Note:** Input formats can be auto-detected.
-> *Changelog — 2026-02-05 (v3.9.7)*  
 
+
+> *Changelog — 2026-02-05 (v3.9.7)*  
 > - *Optimized focus mode.*
 > - *Added class info display to show category and confidence on the image.*
 > - *Added class info display to show category and confidence on the image.*
