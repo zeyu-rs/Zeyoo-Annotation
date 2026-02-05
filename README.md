@@ -27,7 +27,8 @@ Supports **multiple annotation types**, **remote sensing geospatial data**, and 
 
 
 > *Changelog — 2026-02-05 (v3.9.7)*
-> 
+>
+> - *Added polygon/polyline vertex add/delete/simplify feature.*
 > - *Optimized focus mode.*
 > - *Added class info display to show category and confidence on the image.*
 > - *Added class info display to show category and confidence on the image.*
