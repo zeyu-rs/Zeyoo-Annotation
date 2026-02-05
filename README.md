@@ -30,7 +30,7 @@ Supports **multiple annotation types**, **remote sensing geospatial data**, and 
 >
 > - *Added polygon/polyline vertex add/delete/simplify feature.*
 > - *Optimized focus mode.*
-> - *Added snap to edge feature.*
+> - *dded snap to vertex/edge feature.*
 > - *Added class info display to show category and confidence on the image.*
 > - *Optimized some UI.*
 
