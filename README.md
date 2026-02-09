@@ -25,6 +25,8 @@ Supports **multiple annotation types**, **remote sensing geospatial data**, and 
 
 > **Note:** Input formats can be auto-detected.
 
+> *Changelog — 2026-02-05 (v3.9.7)*
+> - *Fixed file browser crash issue on Windows system.*
 
 > *Changelog — 2026-02-05 (v3.9.7)*
 >
