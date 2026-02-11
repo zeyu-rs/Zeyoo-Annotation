@@ -29,7 +29,7 @@ Supports **multiple annotation types**, **remote sensing geospatial data**, and 
 > - *Added annotation comparison feature with dual-view to compare different annotation versions, or model output vs ground truth. Dual-view supports different annotation types, right view supports loading mask with color display.*
 > - *Fixed various other bugs.*
 
-> *Changelog — 2026-02-06 (v3.9.7)*
+> *Changelog — 2026-02-05 (v3.9.7)*
 > - *Fixed file browser crash issue on Windows system.*
 
 > *Changelog — 2026-02-05 (v3.9.7)*
